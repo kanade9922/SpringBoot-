@@ -1,5 +1,5 @@
-This repository contains a complete Spring Boot backend project designed for learning and real-world implementation.
-The project includes:
+**This repository contains a complete Spring Boot backend project designed for learning and real-world implementation.
+The project includes:-**
 
 ✔️ RESTful API endpoints
 
